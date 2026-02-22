@@ -5,7 +5,7 @@
   <parent>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-parent</artifactId>
-    <version>3.5.10</version>
+    <version>3.5.11</version>
     <relativePath></relativePath>
     <!-- Look up parent from repository -->
   </parent>
@@ -14,10 +14,10 @@
   <artifactId>embabel-ticket-triage</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>embabel-ticket-triage</name>
-  <description>Ticket Triage Agent (REST) with Embabel 0.3.2 + OpenAI</description>
+  <description>Ticket Triage Agent (REST) with Embabel + OpenAI</description>
 
   <properties>
-    <embabel-agent.version>0.3.2</embabel-agent.version>
+    <embabel-agent.version>0.3.4</embabel-agent.version>
     <java.version>25</java.version>
   </properties>
 
