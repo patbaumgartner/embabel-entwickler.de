@@ -130,3 +130,8 @@ This project illustrates those principles in a minimal but production-aligned se
 This is a **demo and reference implementation**.
 
 It is intentionally simple, but architecturally aligned with how real production agents should be built.
+
+
+---
+
+🔗 [patbaumgartner.com](https://patbaumgartner.com) · [More talks & projects on GitHub](https://github.com/patbaumgartner)
